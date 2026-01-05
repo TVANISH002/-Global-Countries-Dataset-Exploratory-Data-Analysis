@@ -4,7 +4,6 @@ This project performs exploratory data analysis (EDA) on a global countries data
 The goal is to explore demographic, economic, political, and geographic indicators and answer real-world analytical questions.
 
 ## 📊 Dataset
-- Source: Countries.csv
 - Rows: 194 countries
 - Columns: 64 attributes including population, GDP, democracy score, region, and political leadership.
 
